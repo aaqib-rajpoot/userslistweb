@@ -1,0 +1,12 @@
+{
+  "name": "userslistweb",
+  "version": "1.0.0",
+  "description": "This app is a task project of my job interview in VIS company",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
